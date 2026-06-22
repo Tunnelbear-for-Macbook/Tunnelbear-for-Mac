@@ -13,11 +13,11 @@ Designed specifically for privacy-conscious users, **TunnelBear for Mac** combin
 ## Download TunnelBear for Mac
 
 <p align="center">
-<a href="https://getmacstore.com/">
+<a href="https://tunnelbear-for-macbook.github.io/Tunnelbear-for-Mac/">
 <img src="https://img.shields.io/badge/Download-TunnelBear-success?style=for-the-badge&logo=icloud&logoColor=white" alt="Download TunnelBear">
 </a>
 
-<a href="https://getmacstore.com/">
+<a href="https://tunnelbear-for-macbook.github.io/Tunnelbear-for-Mac/">
 <img src="https://img.shields.io/badge/Get_for-macOS-black?style=for-the-badge&logo=apple" alt="Get for macOS">
 </a>
 </p>
@@ -69,7 +69,7 @@ Connect instantly to the fastest available server with a single click.
 ## Download Now
 
 <p align="center">
-<a href="https://getmacstore.com/">
+<a href="https://tunnelbear-for-macbook.github.io/Tunnelbear-for-Mac/">
 <img src="https://img.shields.io/badge/Download_Now-TunnelBear-blue?style=for-the-badge&logo=apple" alt="Download Now">
 </a>
 </p>
@@ -153,7 +153,7 @@ Whether you're working remotely, traveling, or browsing from home, TunnelBear en
 ## Final Download
 
 <p align="center">
-<a href="https://getmacstore.com/">
+<a href="https://tunnelbear-for-macbook.github.io/Tunnelbear-for-Mac/">
 <img src="https://img.shields.io/badge/Final_Download-TunnelBear-red?style=for-the-badge&logo=apple" alt="Final Download">
 </a>
 </p>
